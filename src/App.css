@@ -1,0 +1,71 @@
+.Intro {
+    padding-top: 200px;
+    
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+}
+
+
+.navtop{
+    
+    background-color: #2e367b;
+
+    border-bottom: 1px solid black;
+
+}
+
+.section-full {
+    height: 100vh;
+    padding: 20px;
+    scroll-margin-top: 50px;    
+  }
+
+  
+
+  .skill{
+    height: 250vh;
+  }
+
+  
+  
+
+ .skillbg{
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+ }
+
+
+
+.call{
+    height: 25vh;
+
+}
+
+#home {
+    border-radius: 5px;   
+}
+  
+#about {
+    height: 115vh;
+}
+    
+#skills {
+    border-radius: 5px;
+    padding-top: 40px; 
+}
+  
+#contact {
+    height: 30vh;
+    padding-top: 100px;
+    padding-bottom: 50px;
+  }
+
+  
